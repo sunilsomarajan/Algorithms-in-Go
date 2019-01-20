@@ -1,1 +1,1 @@
-# Algorithms-in-Go
+# Algorithms in Golang
